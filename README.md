@@ -1,5 +1,7 @@
 ### Muhammadrasul
 
+[![Muhammadrasul's github stats](https://github-readme-stats.vercel.app/api?username=Muhammadrasul446)](https://github.com/anuraghazra/github-readme-stats)
+
 I hate Python, but i use it. Unfortunately, i have to use it. Most of my projects use python. But i hate python. It's awful:
 
 1. No static-typing. Actually there's some, but it isn't checked.
