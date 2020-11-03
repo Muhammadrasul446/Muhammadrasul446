@@ -1,6 +1,6 @@
 ### Muhammadrasul
 
-[![Muhammadrasul's github stats](https://github-readme-stats.vercel.app/api?username=Muhammadrasul446)](https://github.com/anuraghazra/github-readme-stats)
+[![Muhammadrasul's github stats](https://github-readme-stats.vercel.app/api?username=Muhammadrasul446&count_private=true&show_icon=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 I hate Python, but i use it. Unfortunately, i have to use it. Most of my projects use python. But i hate python. It's awful:
 
